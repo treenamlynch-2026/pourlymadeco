@@ -16,5 +16,5 @@ window.SITE = {
   // Contact form delivery (free): get a key at https://web3forms.com
   // using the email that should receive messages (xmlBabe@gmail.com).
   // The key is safe to be public - it only allows sending TO your inbox.
-  web3formsKey: "YOUR_WEB3FORMS_ACCESS_KEY"
+  web3formsKey: "5f15686c-c08c-4fb1-be3f-6510e553019a"
 };
