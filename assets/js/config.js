@@ -9,6 +9,7 @@ window.SITE = {
   social: {
     youtube: "https://www.youtube.com/@pourlymade",
     tiktok: "https://www.tiktok.com/@pourlymade",
+    x: "https://x.com/pourly_made",
     // TODO: paste your Pinterest profile URL. Leave "" to hide Pinterest everywhere.
     pinterest: "https://www.pinterest.com/PourlyMade/"
   },
