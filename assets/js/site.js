@@ -64,7 +64,7 @@
         '<nav class="footer-nav" aria-label="Footer">' + navLinks() + "</nav>" +
         '<div class="footer-social">' + socialLinks("icon-link labeled", true) + "</div>" +
       "</div>" +
-      '<div class="container copyright">&copy; ' + new Date().getFullYear() + " Pourly Made Co.</div>";
+      '<div class="container copyright">&copy; ' + new Date().getFullYear() + ' Pourly Made Co. &middot; <a href="' + ROOT + 'privacy/">Privacy Policy</a></div>';
   }
 
   // social link fill-ins anywhere on the page: <a data-social="youtube">
