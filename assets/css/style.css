@@ -183,4 +183,11 @@ p { margin: 0 0 1em; }
 
 .notfound { min-height: 60vh; display: grid; place-items: center; text-align: center; }
 
-<url><loc>https://pourlymadeco.com/privacy/</loc></url>
+/* ---------- legal pages ---------- */
+.legal .container > * { max-width: 760px; }
+.legal h2 { font-size: clamp(1.6rem, 3vw, 2.1rem); margin-top: 1.6em; }
+.legal h3 { font-size: 1.25rem; margin-top: 1.2em; }
+.legal a { color: var(--accent); }
+.legal ul { padding-left: 1.2em; margin: 0 0 1em; }
+.legal li { margin-bottom: .4em; }
+.copyright a { color: inherit; }
