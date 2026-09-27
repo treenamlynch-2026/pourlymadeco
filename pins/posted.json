@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-27T14:42:59Z",
+  "updated_utc": "2026-09-27T14:44:58Z",
   "count": 11,
   "asins": [
     "B00CAE77OG",
@@ -13,5 +13,51 @@
     "B0CZ9LR46C",
     "B0FV7X5NQL",
     "B0G6LTQ9W6"
+  ],
+  "items": [
+    {
+      "asin": "B00CAE77OG",
+      "title": "Autumn Fragrance Oil Set: Brown Sugar, Apple, Harvest Spice"
+    },
+    {
+      "asin": "B00YQO006K",
+      "title": "Silicone Loaf Soap Mold with Wooden Box"
+    },
+    {
+      "asin": "B07JPBFSRV",
+      "title": "SLS-Free Goat Milk Soap Base for Melt and Pour Beginners"
+    },
+    {
+      "asin": "B0855LRHQ7",
+      "title": "Freedom Soy Wax Beads for Container Candles (5 lb)"
+    },
+    {
+      "asin": "B087DSGPFS",
+      "title": "10 Inch Silicone Loaf Mold for Swirl Soap"
+    },
+    {
+      "asin": "B097T8MDMS",
+      "title": "Metal Candle Wick Centering Devices (20 Pack)"
+    },
+    {
+      "asin": "B09ZG8P7ZB",
+      "title": "Pure Soy Wax for Candle Making (10 lb)"
+    },
+    {
+      "asin": "B0BZB5F315",
+      "title": "Goat Milk Melt and Pour Soap Base (10 lb) for Creamy Handmade Bars"
+    },
+    {
+      "asin": "B0CZ9LR46C",
+      "title": "32 oz Stainless Steel Candle Pouring Pot"
+    },
+    {
+      "asin": "B0FV7X5NQL",
+      "title": "Fragrance Oil Set for Soap and Candle Making"
+    },
+    {
+      "asin": "B0G6LTQ9W6",
+      "title": "Premium Fragrance Oil Set for Candles, Soap and Wax Melts"
+    }
   ]
 }
